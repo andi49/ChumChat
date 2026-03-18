@@ -20,13 +20,13 @@ nav {
     display: flex;
     justify-content: space-between; 
     align-items: center;
-    padding: 10px 30px;
+    padding: 10px 20px;
     background-color: var(--colorOne);
   
 }
 
 .logo {
-    width: 150px;
+    width: 100px;
 }
 
 .menu {
@@ -40,7 +40,7 @@ nav {
     color: black;
     font-weight: bold;
     font-family: var(--font-one);
-    font-size: 1.5rem;
+    font-size: 1rem;
     transition: 0.3s;
 }
 
@@ -48,19 +48,26 @@ nav {
     color: var(--colorTwo);
 }
 
-
-
 .main {
-    display: flex; 
-     
+     display: flex; 
 }
 
 /* SIDENAV */
 .sidenav {
+    font-family: var(--font-one);
+    font-size: 1.5rem;
     width: 10%;
     background-color: lightgray;
     padding: 20px;
     height: 100vh;
+    display: flex; 
+    flex-direction: column;
+}
+
+.sidenav a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
 }
 
 
@@ -78,9 +85,11 @@ nav {
 }
 
 .box{
-    width: 90%;
+    margin-top: 10px;
+    width: 40%;
     height: 20%;
     border: 10px solid red;
+    border-radius: 15px;
 }
 
 
