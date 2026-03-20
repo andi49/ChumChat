@@ -50,10 +50,6 @@ A simple real-time chat application where users can send messages to each other.
 
 ## 🤝 Contributing
 
-Pull requests are welcome!
-
-## 🤝 Contributing
-
 We welcome contributions! To keep the project organized, please follow these steps:
 
 1. **Read the README carefully** to understand the project structure, features, and guidelines.
@@ -79,9 +75,14 @@ We welcome contributions! To keep the project organized, please follow these ste
    * What functionality was added
    * Any notes or instructions if needed
 7. **Do not just comment in the PR** — all code changes must be included in the Pull Request.
-8. **After approval:** If your Pull Request is approved and merged, your name will be added under the **Contributing** section in the README. 🎉
+8. **After approval:** If your Pull Request is approved and merged, your name will be added under the **Contributors** list below. 🎉
 
-Following these steps ensures contributions are easy to review and gives proper credit to contributors. Thank you for helping improve ChumChat! 🚀
+### Current Contributors
+
+* [Andi](https://github.com/andi49) (PROJECT LEAD) 🚩
+* [Eddie](https://github.com/eddiewn)
+* [Jack](https://github.com/jackgustafsson)
+
 
 
 ---
