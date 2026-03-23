@@ -25,7 +25,7 @@ export const RenderMessageBox = async (sender, message, messageKey) => {
 
     ChatBox.append(UserInfo);
 
-    console.log(message.user_id);
+    // console.log(message.user_id);
 
     if (user) {
         if (user.uid === message.user_id) {
@@ -81,10 +81,8 @@ export const RenderMessageBox = async (sender, message, messageKey) => {
 
             const replyText = formData.get("replyText");
 
-        console.log(message)
-        sendReply(message.message_id, replyText);
-
-        alert("Clickeds")
+        // console.log(message)
+        sendReply(messageKey, replyText);
     })
 
     replyForm.append(ChatReply, comments, submitReply)
