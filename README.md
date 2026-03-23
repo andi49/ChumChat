@@ -10,20 +10,28 @@ A simple real-time chat application where users can send messages to each other.
 * Real-time messaging
 * Chat rooms
 * Send images in the "memes" chat
-* Active users list
 * Responsive design (mobile & desktop)
 
 ---
 
 ## Design & Color Palette
 
-| Preview                                                         | Hex       | Usage                         |
-| --------------------------------------------------------------- | --------- | ----------------------------- |
+| Preview                                                         | Hex       |
+| --------------------------------------------------------------- | --------- |
 | ![Primary Green](https://img.shields.io/badge/Primary%20Green-00A86B?style=for-the-badge) | `#00A86B`|
 | ![#000000](https://img.shields.io/badge/Black-000000?style=for-the-badge) | `#000000` |    
 | ![#F2EAE0](https://img.shields.io/badge/SoftAlmond-F2EAE0?style=for-the-badge) | `#F2EAE0` |      
 | ![#FFFFFF](https://img.shields.io/badge/White-FFFFFF?style=for-the-badge) | `#FFFFFF` |           
 
+
+# Typography Scale
+
+| Level | Size (px / rem) | Weight  | Example Text           |
+|-------|-----------------|---------|-----------------------|
+| 1     | 48–60 px / 1.5→2.5 rem | Regular | TYPOGRAPHY SCALE |
+| 2     | 24–35 px / 1.5→2 rem   | Regular | Typography Scale  |
+| 3     | 18–24 px / 0.5→1.5 rem | Bold    | **TYPOGRAPHY SCALE** |
+| 4     | 12–15 px / 0.5→1 rem   | Bold    | **TYPOGRAPHY SCALE** |
 
 ---
 
@@ -77,8 +85,10 @@ We welcome contributions! To keep the project organized, please follow these ste
 ### Current Contributors
 
 * [Andi](https://github.com/andi49) (PROJECT LEAD) 🚩
-* [Eddie](https://github.com/eddiewn)
-* [Jack](https://github.com/jackgustafsson)
+* [Eddie](https://github.com/eddiewn) (BACKEND/FRONTEND)
+* [Jack](https://github.com/jackgustafsson) (BACKEND/FRONTEND)
+* [Ali](https://github.com/Hammadi15) (UX/FRONTEND)
+
 
 
 
