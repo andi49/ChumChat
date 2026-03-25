@@ -102,6 +102,41 @@ body {
   font-size: 0.95rem;
 }
 
+.input-group-dark{
+  background-color: var(--colorTwo);
+  border-radius: 15px;
+}
+
+.input-group-dark input {
+  background-color: var(--colorTwo); 
+  color: var(--colorFour);
+  border: 1px solid var(--colorThree); 
+  padding: 0.5rem;
+  border-radius: 5px;
+  transition: all 0.2s ease;
+}
+
+
+.input-group-dark input:focus {
+  outline: none;
+  border-color: var(--colorOne);
+  box-shadow: 0 0 5px var(--colorOne); 
+  background-color: var(--colorTwo); 
+  color: var(--colorFour);
+}
+
+button.login-btn.loginButton-dark {
+  background: linear-gradient(190deg, var(--colorTwo), var(--colorOne));
+  color: white;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.placeHolderImg-dark{
+  color: var(--colorFour);
+}
+
+
 .placeHolderImg{
   font-family: var(--font-one);
   font-size: 1rem;

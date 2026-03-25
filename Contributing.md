@@ -20,7 +20,6 @@ Before starting, please contact me on Discord: **andionlyfans**.
 - [X] Like/Favorite system for posts and answers  
 - [X] Emoji reactions 
 - [X] Make a sound when you send a message
-- [X] Custom sound when sending a message 
 - [X] Add a terms of service
 - [ ] Post picture in the chat
 - [ ] Add a second chat room

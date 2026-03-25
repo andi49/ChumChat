@@ -1,7 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --font-one: "Inter", sans-serif;
+  --colorOne: #00a86b;
+  --colorTwo: #000000;
+  --colorThree: #f2eae0;
+  --colorFour: #ffffff;
+}
 /* POP UP CSS */
-
-
-
 /* Blur + disable background */
 #mainContent.blur {
   filter: blur(10px);
@@ -21,6 +30,8 @@
   justify-content: center;
   align-items: center;
   z-index: 999;
+  font-family: var(--font-one);
+  font-size: 1.5rem;
 }
 
 /* Popup box */
@@ -30,6 +41,8 @@
   border-radius: 10px;
   text-align: center;
   width: 300px;
+  font-family: var(--font-one);
+  font-size: 1.5rem;
 }
 
 /* Button disabled */
