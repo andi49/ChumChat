@@ -18,11 +18,11 @@ Before starting, please contact me on Discord: **andionlyfans**.
 ## Features ChumChat Need
 - [X] Filter for inappropriate or bad words 
 - [X] Like/Favorite system for posts and answers  
-- [X] Emoji reactions 
+- [X] Emoji's
+- [X] Make a sound when you delete something
 - [X] Make a sound when you send a message
 - [X] Add a terms of service
-- [ ] Post picture in the chat
-- [ ] Add a second chat room
+- [X] Post picture in the meme chat
 
 
 

@@ -87,9 +87,10 @@ We welcome contributions! To keep the project organized, please follow these ste
 
 * [Andi](https://github.com/andi49) (PROJECT LEADER) 🚩(Bot Check)
 * [Eddie](https://github.com/eddiewn) (BACKEND/FRONTEND) (Reply/Login/Register)
+* [Elias](https://github.com/eliassjoholm) (FRONTEND) (Contact-page/meme-page)
 * [Jack](https://github.com/jackgustafsson) (BACKEND/FRONTEND) (Weather/Delete)
 * [Ali](https://github.com/Hammadi15) (UX/FRONTEND) (Translate)
-* [Mohammed](https://github.com/mohammed-alpha91) (Profanity)
+* [Mohammed](https://github.com/mohammed-alpha91) (Profanity/Delete Sound)
 * [Jenny](https://github.com/jenhangso) (Like & favorite)
 * [Daniel](https://github.com/adlounid) (Emoji List)
 * [Adam](https://github.com/AdamTimrell) (The ting goes pop)
