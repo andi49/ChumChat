@@ -5,9 +5,6 @@ import { RenderNav } from "./RenderFunctions/RenderNav.js";
 import { RenderMessages } from "./RenderFunctions/RenderMessages.js"
 import { renderWeatherData } from "./function/RenderWeatherData.js";
 import { RenderImages } from "./RenderFunctions/renderimages.js";
-import { animateCursor } from './function/costumCursor.js'
-
-animateCursor(); //Tillkallar animationen från modulen.
 
 RenderNav();
 
